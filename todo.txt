@@ -34,4 +34,4 @@
   Report对象里面所有的 string类型,都支持 Freemarker引用参数
   将macro等标准 js,css,ftl文件打包在jar包里面
   
-
+  
